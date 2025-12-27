@@ -1,0 +1,7 @@
+{
+  "name": "KT TableOrder & Serving Robot Landing Page",
+  "description": "A high-conversion landing page designed for restaurant owners to experience KT's automation solutions with a 1-week free trial.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
